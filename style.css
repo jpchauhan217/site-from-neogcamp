@@ -1,21 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500&display=swap');
+
 body{
-    
-    
-    color:red;
+    font-family: 'Cinzel', serif;
 }
-h1{
-    color: blue;
-}
-#lib-header{
-    color:gray;
-}
-h2{
-    color: aqua;
-}
-
-
-.para{
-    color: antiquewhite;
-}
-
-
